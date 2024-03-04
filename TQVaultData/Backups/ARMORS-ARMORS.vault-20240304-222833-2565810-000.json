@@ -1,0 +1,181 @@
+﻿{
+  "disabledtooltip": [],
+  "currentlyFocusedSackNumber": 0,
+  "currentlySelectedSackNumber": 7,
+  "sacks": [
+    {
+      "iconinfo": {
+        "mode": 5,
+        "label": "HELMETS",
+        "on": "ITEMS\\EQUIPMENTHELM\\UIBITMAPS\\R_LEONIDASHELM.TEX",
+        "off": "ITEMS\\EQUIPMENTHELM\\UIBITMAPS\\R_LEONIDASHELM.TEX",
+        "over": ""
+      },
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 5822,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\um_e_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7025,
+          "baseName": "Records\\Item\\EquipmentHelm\\U_E_HopliteHelm.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 6962,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\u_e_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 4
+        }
+      ]
+    },
+    {
+      "iconinfo": {
+        "mode": 5,
+        "label": "HELMETS",
+        "on": "ITEMS\\EQUIPMENTHELM\\UIBITMAPS\\R_LEONIDASHELM.TEX",
+        "off": "ITEMS\\EQUIPMENTHELM\\UIBITMAPS\\R_LEONIDASHELM.TEX",
+        "over": ""
+      },
+      "items": []
+    },
+    {
+      "iconinfo": {
+        "mode": 5,
+        "label": "ARMBANDS",
+        "on": "ITEMS\\EQUIPMENTARMBAND\\UIBITMAPS\\U03_BRACELET.TEX",
+        "off": "ITEMS\\EQUIPMENTARMBAND\\UIBITMAPS\\U03_BRACELET.TEX",
+        "over": ""
+      },
+      "items": []
+    },
+    {
+      "iconinfo": {
+        "mode": 5,
+        "label": "ARMBANDS",
+        "on": "ITEMS\\EQUIPMENTARMBAND\\UIBITMAPS\\U03_BRACELET.TEX",
+        "off": "ITEMS\\EQUIPMENTARMBAND\\UIBITMAPS\\U03_BRACELET.TEX",
+        "over": ""
+      },
+      "items": []
+    },
+    {
+      "iconinfo": {
+        "mode": 5,
+        "label": "CHEST",
+        "on": "INGAMEUI\\ICONS\\SKILLS\\DEFENSIVE\\ARMORHANDLINGDOWN01.TEX",
+        "off": "INGAMEUI\\ICONS\\SKILLS\\DEFENSIVE\\ARMORHANDLINGUP01.TEX",
+        "over": ""
+      },
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 6058,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_E_Blackguard.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        }
+      ]
+    },
+    {
+      "iconinfo": {
+        "mode": 5,
+        "label": "CHEST",
+        "on": "INGAMEUI\\ICONS\\SKILLS\\DEFENSIVE\\ARMORHANDLINGDOWN01.TEX",
+        "off": "INGAMEUI\\ICONS\\SKILLS\\DEFENSIVE\\ARMORHANDLINGUP01.TEX",
+        "over": ""
+      },
+      "items": []
+    },
+    {
+      "iconinfo": {
+        "mode": 5,
+        "label": "GREAVES",
+        "on": "ITEMS\\EQUIPMENTGREAVES\\UIBITMAPS\\C08_GREAVES03.TEX",
+        "off": "ITEMS\\EQUIPMENTGREAVES\\UIBITMAPS\\C08_GREAVES03.TEX",
+        "over": ""
+      },
+      "items": []
+    },
+    {
+      "iconinfo": {
+        "mode": 5,
+        "label": "GREAVES",
+        "on": "ITEMS\\EQUIPMENTGREAVES\\UIBITMAPS\\C08_GREAVES03.TEX",
+        "off": "ITEMS\\EQUIPMENTGREAVES\\UIBITMAPS\\C08_GREAVES03.TEX",
+        "over": ""
+      },
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 13655,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\u_n_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    }
+  ]
+}
