@@ -1,8 +1,139 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 7,
   "sacks": [
+    {
+      "iconinfo": {
+        "mode": 5,
+        "label": "HELMETS",
+        "on": "ITEMS\\EQUIPMENTHELM\\UIBITMAPS\\R_LEONIDASHELM.TEX",
+        "off": "ITEMS\\EQUIPMENTHELM\\UIBITMAPS\\R_LEONIDASHELM.TEX",
+        "over": ""
+      },
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 2674,
+          "baseName": "Records\\Item\\EquipmentHelm\\U_E_BlueWarCrown.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7142,
+          "baseName": "Records\\Item\\EquipmentHelm\\U_E_CrownoftheGreatKing.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7025,
+          "baseName": "Records\\Item\\EquipmentHelm\\U_E_HopliteHelm.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 22771,
+          "baseName": "Records\\Item\\EquipmentHelm\\U_E_Ptolemy'sCrestedHelm.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 1897,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_n_05.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 5390,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\u_n_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 11963,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\Um_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 29627,
+          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Helm\\Um_N_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 0
+        }
+      ]
+    },
     {
       "iconinfo": {
         "mode": 5,
@@ -29,8 +160,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 2674,
-          "baseName": "Records\\Item\\EquipmentHelm\\U_E_BlueWarCrown.dbr",
+          "seed": 26986,
+          "baseName": "Records\\Item\\EquipmentHelm\\U_E_HelmofOddyseus.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -40,81 +171,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 7142,
-          "baseName": "Records\\Item\\EquipmentHelm\\U_E_CrownoftheGreatKing.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 7025,
-          "baseName": "Records\\Item\\EquipmentHelm\\U_E_HopliteHelm.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 22771,
-          "baseName": "Records\\Item\\EquipmentHelm\\U_E_Ptolemy'sCrestedHelm.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 1897,
-          "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_n_05.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 5822,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\um_e_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
           "pointY": 0
         },
         {
@@ -129,13 +185,54 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 2
+          "pointX": 6,
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 5390,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\u_n_02.dbr",
+          "seed": 751,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\um_e_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 0
+        }
+      ]
+    },
+    {
+      "iconinfo": {
+        "mode": 5,
+        "label": "ARMBANDS",
+        "on": "ITEMS\\EQUIPMENTARMBAND\\UIBITMAPS\\U03_BRACELET.TEX",
+        "off": "ITEMS\\EQUIPMENTARMBAND\\UIBITMAPS\\U03_BRACELET.TEX",
+        "over": ""
+      },
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 360,
+          "baseName": "Records\\Item\\EquipmentArmband\\Um_E_ArcaneBindings.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 15637,
+          "baseName": "Records\\Item\\EquipmentArmband\\Um_E_Lethargy.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -145,12 +242,12 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 2
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 11963,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\Um_N_001.dbr",
+          "seed": 22014,
+          "baseName": "Records\\Item\\EquipmentArmband\\Um_E_Nathus'Bane.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -160,27 +257,12 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 2
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 29627,
-          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Helm\\Um_N_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 26986,
-          "baseName": "Records\\Item\\EquipmentHelm\\U_E_HelmofOddyseus.dbr",
+          "seed": 32217,
+          "baseName": "Records\\Item\\EquipmentArmband\\Um_N_Scholar'sBangle.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -191,18 +273,38 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 32650,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_n_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7311,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\Um_N_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 0
         }
       ]
-    },
-    {
-      "iconinfo": {
-        "mode": 5,
-        "label": "HELMETS",
-        "on": "ITEMS\\EQUIPMENTHELM\\UIBITMAPS\\R_LEONIDASHELM.TEX",
-        "off": "ITEMS\\EQUIPMENTHELM\\UIBITMAPS\\R_LEONIDASHELM.TEX",
-        "over": ""
-      },
-      "items": []
     },
     {
       "iconinfo": {
@@ -218,107 +320,6 @@
           "seed": 18205,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_E_Diogenes'Wrap.dbr",
           "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 20653,
-          "baseName": "Records\\Item\\EquipmentArmband\\Um_E_ScourgeWrap.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 2,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 360,
-          "baseName": "Records\\Item\\EquipmentArmband\\Um_E_ArcaneBindings.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 5786,
-          "baseName": "Records\\Item\\EquipmentArmband\\Um_E_PermafrostBracelet.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 2,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 22014,
-          "baseName": "Records\\Item\\EquipmentArmband\\Um_E_Nathus'Bane.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 4341,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_e_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 6
-        }
-      ]
-    },
-    {
-      "iconinfo": {
-        "mode": 5,
-        "label": "ARMBANDS",
-        "on": "ITEMS\\EQUIPMENTARMBAND\\UIBITMAPS\\U03_BRACELET.TEX",
-        "off": "ITEMS\\EQUIPMENTARMBAND\\UIBITMAPS\\U03_BRACELET.TEX",
-        "over": ""
-      },
-      "items": [
-        {
-          "stackSize": 1,
-          "seed": 24227,
-          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_GorgonArcher.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
           "suffixName": "",
           "relicName": "",
           "relicBonus": "",
@@ -346,8 +347,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 15637,
-          "baseName": "Records\\Item\\EquipmentArmband\\Um_E_Lethargy.dbr",
+          "seed": 5786,
+          "baseName": "Records\\Item\\EquipmentArmband\\Um_E_PermafrostBracelet.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -361,8 +362,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 29626,
-          "baseName": "Records\\Item\\EquipmentArmband\\Um_E_Nathus'Bane.dbr",
+          "seed": 20653,
+          "baseName": "Records\\Item\\EquipmentArmband\\Um_E_ScourgeWrap.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -376,8 +377,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 32217,
-          "baseName": "Records\\Item\\EquipmentArmband\\Um_N_Scholar'sBangle.dbr",
+          "seed": 4341,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -391,9 +392,9 @@
         },
         {
           "stackSize": 1,
-          "seed": 32650,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_n_02.dbr",
-          "prefixName": "",
+          "seed": 24227,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_GorgonArcher.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
           "suffixName": "",
           "relicName": "",
           "relicBonus": "",
@@ -402,21 +403,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 7311,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\Um_N_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
           "pointY": 0
         }
       ]
@@ -457,24 +443,20 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 17707,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\um_e_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 6
-        },
+          "pointX": 2,
+          "pointY": 0
+        }
+      ]
+    },
+    {
+      "iconinfo": {
+        "mode": 5,
+        "label": "CHEST",
+        "on": "INGAMEUI\\ICONS\\SKILLS\\DEFENSIVE\\ARMORHANDLINGDOWN01.TEX",
+        "off": "INGAMEUI\\ICONS\\SKILLS\\DEFENSIVE\\ARMORHANDLINGUP01.TEX",
+        "over": ""
+      },
+      "items": [
         {
           "stackSize": 1,
           "seed": 2869,
@@ -488,11 +470,26 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 9
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 14646,
+          "seed": 17707,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\um_e_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 2950,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\Um_E_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -502,20 +499,10 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 12
+          "pointX": 4,
+          "pointY": 0
         }
       ]
-    },
-    {
-      "iconinfo": {
-        "mode": 5,
-        "label": "CHEST",
-        "on": "INGAMEUI\\ICONS\\SKILLS\\DEFENSIVE\\ARMORHANDLINGDOWN01.TEX",
-        "off": "INGAMEUI\\ICONS\\SKILLS\\DEFENSIVE\\ARMORHANDLINGUP01.TEX",
-        "over": ""
-      },
-      "items": []
     },
     {
       "iconinfo": {
@@ -528,6 +515,36 @@
       "items": [
         {
           "stackSize": 1,
+          "seed": 10688,
+          "baseName": "Records\\Item\\EquipmentGreaves\\C10_Greaves05.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_SpeedRun%Pierce_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 14698,
+          "baseName": "Records\\Item\\EquipmentGreaves\\C10_Greaves05.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_SpeedRun%Pierce_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 10152,
           "baseName": "Records\\Item\\EquipmentGreaves\\Um_E_TaklamakanLeggings.dbr",
           "prefixName": "",
@@ -538,7 +555,22 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 14496,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Um_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
           "pointY": 0
         },
         {
@@ -553,13 +585,13 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 2
+          "pointX": 8,
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 14496,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Um_N_001.dbr",
+          "seed": 13655,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\u_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -568,83 +600,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 10688,
-          "baseName": "Records\\Item\\EquipmentGreaves\\C10_Greaves05.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_02.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_SpeedRun%Pierce_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 14698,
-          "baseName": "Records\\Item\\EquipmentGreaves\\C10_Greaves05.dbr",
-          "prefixName": "",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_SpeedRun%Pierce_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 1516,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\u_e_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 4988,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\um_e_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 31442,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Um_E_003.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 14
+          "pointX": 10,
+          "pointY": 0
         }
       ]
     },
@@ -659,8 +616,8 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 13655,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\u_n_02.dbr",
+          "seed": 1516,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -669,7 +626,52 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 31442,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Um_E_003.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 2595,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\um_e_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
           "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 16061,
+          "baseName": "Records\\Item\\EquipmentGreaves\\U_E_MurkCrawlers.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
           "pointY": 0
         }
       ]
@@ -715,6 +717,36 @@
         },
         {
           "stackSize": 1,
+          "seed": 1518,
+          "baseName": "Records\\Item\\EquipmentRing\\US_E_Gladiator'sCreed02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 29909,
+          "baseName": "Records\\Item\\EquipmentRing\\US_E_Gladiator'sCreed02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 10043,
           "baseName": "Records\\Item\\EquipmentRing\\U_E_BandofDomination.dbr",
           "prefixName": "",
@@ -725,7 +757,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 4,
           "pointY": 0
         },
         {
@@ -740,7 +772,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
+          "pointX": 5,
           "pointY": 0
         },
         {
@@ -755,7 +787,22 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 20802,
+          "baseName": "Records\\Item\\EquipmentRing\\U_E_Chiron'sLoop.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
           "pointY": 0
         },
         {
@@ -770,7 +817,22 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
+          "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 978,
+          "baseName": "Records\\Item\\EquipmentRing\\U_E_Thoth'sMark.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 9,
           "pointY": 0
         },
         {
@@ -785,7 +847,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 10,
           "pointY": 0
         },
         {
@@ -800,7 +862,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 11,
           "pointY": 0
         },
         {
@@ -815,7 +877,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 12,
           "pointY": 0
         },
         {
@@ -830,7 +892,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 13,
           "pointY": 0
         },
         {
@@ -845,7 +907,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 14,
           "pointY": 0
         },
         {
@@ -860,7 +922,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
+          "pointX": 15,
           "pointY": 0
         },
         {
@@ -875,7 +937,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 16,
           "pointY": 0
         },
         {
@@ -890,7 +952,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
+          "pointX": 17,
           "pointY": 0
         },
         {
@@ -905,8 +967,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
-          "pointY": 0
+          "pointX": 0,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -920,38 +982,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 15320,
-          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_e_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 25649,
-          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_n_03.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 17,
-          "pointY": 0
+          "pointX": 1,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -965,13 +997,13 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 2,
           "pointY": 1
         },
         {
           "stackSize": 1,
-          "seed": 978,
-          "baseName": "Records\\Item\\EquipmentRing\\U_E_Thoth'sMark.dbr",
+          "seed": 15320,
+          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -980,8 +1012,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 2
+          "pointX": 3,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -995,13 +1027,13 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
+          "pointX": 4,
+          "pointY": 1
         },
         {
           "stackSize": 1,
-          "seed": 1518,
-          "baseName": "Records\\Item\\EquipmentRing\\US_E_Gladiator'sCreed02.dbr",
+          "seed": 25649,
+          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_n_03.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -1009,39 +1041,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 20802,
-          "baseName": "Records\\Item\\EquipmentRing\\U_E_Chiron'sLoop.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 29909,
-          "baseName": "Records\\Item\\EquipmentRing\\US_E_Gladiator'sCreed02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 6
+          "var2": 2035248,
+          "pointX": 5,
+          "pointY": 1
         }
       ]
     },
@@ -1260,7 +1262,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 1
         }
@@ -1277,6 +1279,21 @@
       "items": [
         {
           "stackSize": 1,
+          "seed": 19186,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_E_Aeon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 29310,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_E_AmuletofHygeia.dbr",
           "prefixName": "",
@@ -1287,7 +1304,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 1,
           "pointY": 0
         },
         {
@@ -1302,7 +1319,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
+          "pointX": 2,
           "pointY": 0
         },
         {
@@ -1317,7 +1334,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 3,
           "pointY": 0
         },
         {
@@ -1332,7 +1349,67 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 2462,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_E_EyeofFlame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 5,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 13882,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_E_EyeofFlame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 22456,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_E_EyeofFlame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 12477,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_E_EyeofFlame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
           "pointY": 0
         },
         {
@@ -1347,7 +1424,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 9,
           "pointY": 0
         },
         {
@@ -1362,7 +1439,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
+          "pointX": 10,
           "pointY": 0
         },
         {
@@ -1377,7 +1454,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 11,
           "pointY": 0
         },
         {
@@ -1392,7 +1469,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 12,
           "pointY": 0
         },
         {
@@ -1407,7 +1484,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 13,
           "pointY": 0
         },
         {
@@ -1422,7 +1499,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 14,
           "pointY": 0
         },
         {
@@ -1437,7 +1514,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 15,
           "pointY": 0
         },
         {
@@ -1452,7 +1529,22 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
+          "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 12037,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_e_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 17,
           "pointY": 0
         },
         {
@@ -1467,8 +1559,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
-          "pointY": 0
+          "pointX": 0,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -1482,8 +1574,38 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
-          "pointY": 0
+          "pointX": 1,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 19675,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_e_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 21123,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_e_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -1497,8 +1619,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
-          "pointY": 0
+          "pointX": 4,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -1512,8 +1634,38 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
-          "pointY": 0
+          "pointX": 5,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 2510,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_e_03.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 20407,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_e_03.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -1527,8 +1679,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
+          "pointX": 8,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -1542,22 +1694,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 1812,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_n_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
+          "pointX": 9,
           "pointY": 1
         },
         {
@@ -1572,7 +1709,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
+          "pointX": 11,
           "pointY": 1
         },
         {
@@ -1587,7 +1724,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 12,
           "pointY": 1
         },
         {
@@ -1602,7 +1739,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
+          "pointX": 13,
           "pointY": 1
         },
         {
@@ -1617,13 +1754,13 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 14,
           "pointY": 1
         },
         {
           "stackSize": 1,
-          "seed": 26536,
-          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Amulet\\U_N_001.dbr",
+          "seed": 2041,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\U_E_002.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -1632,13 +1769,13 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
+          "pointX": 15,
           "pointY": 1
         },
         {
           "stackSize": 1,
-          "seed": 15591,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\U_N_002.dbr",
+          "seed": 25714,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\U_E_002.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -1646,8 +1783,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 22640,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\U_E_003.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 17,
           "pointY": 1
         },
         {
@@ -1662,28 +1814,13 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 2462,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_E_EyeofFlame.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
+          "pointX": 2,
           "pointY": 2
         },
         {
           "stackSize": 1,
-          "seed": 19675,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_e_02.dbr",
+          "seed": 15591,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\U_N_002.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -1692,113 +1829,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 13882,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_E_EyeofFlame.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 22456,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_E_EyeofFlame.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 12037,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_e_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 2510,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_e_03.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 20407,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_e_03.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 7577,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\C03_Amulet01.dbr",
-          "prefixName": "",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_Guile_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 32,
-          "pointX": 0,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 2041,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\U_E_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 10
+          "pointX": 1,
+          "pointY": 2
         }
       ]
     },
@@ -2019,6 +2051,36 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 13,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7577,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\C03_Amulet01.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_Guile_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 20690,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\C04_Amulet04.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_HonorGuards_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_05.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 15,
           "pointY": 0
         }
       ]
