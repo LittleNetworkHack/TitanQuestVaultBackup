@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": {
@@ -119,7 +119,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         },
@@ -134,7 +134,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 0
         }
@@ -2151,7 +2151,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 8
         },
@@ -2166,7 +2166,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 9
         },
@@ -2181,7 +2181,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 757198432,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 10
         },
@@ -2196,7 +2196,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 11
         },
@@ -2211,9 +2211,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 31894,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_LA_RavensShadow_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 1
         }
       ]
     },

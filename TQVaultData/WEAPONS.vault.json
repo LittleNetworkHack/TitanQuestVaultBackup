@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": {
@@ -113,7 +113,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 0
         },
@@ -482,6 +482,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 7250,
+          "baseName": "Records\\Item\\EquipmentShield\\U_E_Bladeturn.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 3
         }
       ]
     },
@@ -595,7 +610,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 3
         }
@@ -612,7 +627,22 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 20422,
+          "seed": 31933,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Daedalus'Dread.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 12142,
           "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_EmperorsGift.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -622,7 +652,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 1,
           "pointY": 0
         },
         {
@@ -637,7 +667,48 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 25063,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_Silentflight.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 0
+        }
+      ]
+    },
+    {
+      "iconinfo": {
+        "mode": 5,
+        "label": "BOWS",
+        "on": "INGAMEUI\\ICONS\\SKILLS\\HUNTING\\HUD_WOODLOREDOWN01.TEX",
+        "off": "INGAMEUI\\ICONS\\SKILLS\\HUNTING\\HUD_WOODLOREUP01.TEX",
+        "over": ""
+      },
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 3356,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Borealis.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
           "pointY": 0
         },
         {
@@ -652,7 +723,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 1,
           "pointY": 0
         },
         {
@@ -667,80 +738,10 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
+          "pointX": 2,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 13034,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Meriones'Bow.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 12142,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_EmperorsGift.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 25063,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_Silentflight.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 3356,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Borealis.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
         }
       ]
-    },
-    {
-      "iconinfo": {
-        "mode": 5,
-        "label": "BOWS",
-        "on": "INGAMEUI\\ICONS\\SKILLS\\HUNTING\\HUD_WOODLOREDOWN01.TEX",
-        "off": "INGAMEUI\\ICONS\\SKILLS\\HUNTING\\HUD_WOODLOREUP01.TEX",
-        "over": ""
-      },
-      "items": []
     },
     {
       "iconinfo": {
@@ -878,7 +879,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 3
         }
@@ -994,7 +995,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
