@@ -311,6 +311,21 @@
           "var2": 2035248,
           "pointX": 13,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 22118,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_E_Onager.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 3
         }
       ]
     },
@@ -376,21 +391,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 31307,
-          "baseName": "Records\\Item\\EquipmentShield\\U_E_LeatherSkinShield.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
           "pointY": 0
         },
         {
@@ -470,21 +470,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 21631,
-          "baseName": "Records\\Item\\EquipmentShield\\U_E_EidolonShell.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 944,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_CeremonialBuckler.dbr",
           "prefixName": "",
@@ -539,7 +524,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -557,6 +542,36 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 30601,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\u_e_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6756,
+          "baseName": "Records\\Item\\EquipmentShield\\U_E_LeatherSkinShield.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 0
         }
       ]
     },
@@ -791,7 +806,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         },
@@ -977,8 +992,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 438320192,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 14965,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_E_Hector'sSpear.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 5,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 28405,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\U_E_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
           "pointY": 0
         }
       ]
@@ -1060,6 +1105,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6735,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_ChromaticStaff.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
           "pointY": 0
         }
       ]
