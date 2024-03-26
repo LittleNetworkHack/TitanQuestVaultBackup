@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 8,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": {
@@ -131,6 +131,36 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 9513,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_n_06.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1082679449,
+          "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 21360,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_e_07.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 2
         }
       ]
     },
@@ -333,6 +363,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 18741,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\u_e_04.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 0
         }
       ]
     },
@@ -464,6 +509,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 24991,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\u_e_03.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
@@ -505,6 +565,36 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 26687,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_e_06.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 18564,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_e_05.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 0
         }
       ]
     },
@@ -517,21 +607,6 @@
         "over": ""
       },
       "items": [
-        {
-          "stackSize": 1,
-          "seed": 17707,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\um_e_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
-        },
         {
           "stackSize": 1,
           "seed": 2950,
@@ -605,6 +680,51 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 18445,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_e_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 30463,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_E_ProteanArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 15698,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_e_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
           "pointY": 0
         }
       ]
@@ -707,6 +827,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 27937,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\u_e_05.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 667099024,
+          "pointX": 12,
+          "pointY": 0
         }
       ]
     },
@@ -732,21 +867,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 31442,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Um_E_003.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
           "pointY": 0
         },
         {
@@ -808,6 +928,66 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7470,
+          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Greaves\\U_E_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 12326,
+          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Greaves\\Um_E_003.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": -1279541970,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 9000,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\u_e_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 19761,
+          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Greaves\\Um_E_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
@@ -847,7 +1027,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
+          "pointX": 1,
           "pointY": 0
         },
         {
@@ -862,7 +1042,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 2,
           "pointY": 0
         },
         {
@@ -877,7 +1057,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
+          "pointX": 3,
           "pointY": 0
         },
         {
@@ -892,7 +1072,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 4,
           "pointY": 0
         },
         {
@@ -907,7 +1087,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 5,
           "pointY": 0
         },
         {
@@ -922,7 +1102,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 6,
           "pointY": 0
         },
         {
@@ -937,7 +1117,22 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 7,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 10043,
+          "baseName": "Records\\Item\\EquipmentRing\\U_E_BandofDomination.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 19326444,
+          "pointX": 8,
           "pointY": 0
         },
         {
@@ -952,7 +1147,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
+          "pointX": 9,
           "pointY": 0
         },
         {
@@ -967,7 +1162,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 10,
           "pointY": 0
         },
         {
@@ -982,7 +1177,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
+          "pointX": 11,
           "pointY": 0
         },
         {
@@ -997,7 +1192,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 12,
           "pointY": 0
         },
         {
@@ -1012,7 +1207,22 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
+          "pointX": 13,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 26165,
+          "baseName": "Records\\Item\\EquipmentRing\\U_E_PhantomBane.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 19326444,
+          "pointX": 14,
           "pointY": 0
         },
         {
@@ -1027,7 +1237,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
+          "pointX": 15,
           "pointY": 0
         },
         {
@@ -1042,8 +1252,23 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 1
+          "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17462,
+          "baseName": "Records\\Item\\EquipmentRing\\U_E_RingOfGaia.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 19326444,
+          "pointX": 17,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1057,7 +1282,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 0,
           "pointY": 1
         },
         {
@@ -1072,7 +1297,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
+          "pointX": 1,
           "pointY": 1
         },
         {
@@ -1087,7 +1312,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 2,
           "pointY": 1
         },
         {
@@ -1102,7 +1327,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
+          "pointX": 3,
           "pointY": 1
         },
         {
@@ -1117,7 +1342,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 4,
           "pointY": 1
         },
         {
@@ -1132,7 +1357,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 5,
           "pointY": 1
         },
         {
@@ -1147,7 +1372,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 6,
           "pointY": 1
         },
         {
@@ -1162,7 +1387,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 7,
           "pointY": 1
         },
         {
@@ -1177,7 +1402,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 8,
           "pointY": 1
         },
         {
@@ -1192,7 +1417,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
+          "pointX": 9,
           "pointY": 1
         },
         {
@@ -1207,7 +1432,22 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 10,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 1389,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\ring\\u_n_003.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 19326444,
+          "pointX": 11,
           "pointY": 1
         },
         {
@@ -1222,7 +1462,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 12,
           "pointY": 1
         },
         {
@@ -1237,7 +1477,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
+          "pointX": 13,
           "pointY": 1
         },
         {
@@ -1252,7 +1492,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 14,
           "pointY": 1
         },
         {
@@ -1267,7 +1507,22 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
+          "pointX": 15,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 8835,
+          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_e_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
           "pointY": 1
         },
         {
@@ -1282,7 +1537,37 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
+          "pointX": 17,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 3055,
+          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_e_03.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
           "pointX": 0,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 7578,
+          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_n_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 1,
           "pointY": 2
         },
         {
@@ -1297,13 +1582,13 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
+          "pointX": 2,
           "pointY": 2
         },
         {
           "stackSize": 1,
-          "seed": 12699,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\US_E_005.dbr",
+          "seed": 9157,
+          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Ring\\U_E_001.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -1311,8 +1596,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
+          "var2": 1065353216,
+          "pointX": 5,
           "pointY": 2
         },
         {
@@ -1327,7 +1612,67 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
+          "pointX": 6,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 12900,
+          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Ring\\U_E_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 7,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 12918,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\U_E_003.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 19326444,
+          "pointX": 8,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 14081,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\U_E_003.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 19326444,
+          "pointX": 9,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 21394,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\U_E_003.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
           "pointY": 2
         }
       ]
@@ -1580,6 +1925,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 22826,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\C04_Ring02.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_Pierce%Pierce_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 1,
+          "pointY": 1
         }
       ]
     },
@@ -2622,6 +2982,36 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 22641,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\ring\\c03_ring04.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistCold_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_Pierce%Pierce_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 17,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 30567,
+          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Amulet\\U_E_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 1
         }
       ]
     }
